@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - LilyPad
+  - Log
+  - WaterRow
+  - RoadRow
+  - Frog
+  - Car
+  - Coin
+  - Coins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - Log
+  - LilyPad
+  - Cars
+  - Frog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2327284397
+    locked: 0
+  - name: splash
+    uniqueID: 1779614493
+    locked: 0
+  - name: logs
+    uniqueID: 965878109
+    locked: 0
+  - name: lilys
+    uniqueID: 2186207269
+    locked: 0
+  - name: frog
+    uniqueID: 1703160453
+    locked: 0
+  - name: cars
+    uniqueID: 3627556819
+    locked: 0
+  m_RenderingLayers:
+  - Default
