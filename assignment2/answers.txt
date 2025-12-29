@@ -1,3 +1,0 @@
-What is the thread of control in a program? The thread of control refers to the sequence of execution followed by a program. In Unity, this usually means the main thread, which runs the game loop and processes updates, physics, and rendering. If a program has multiple threads, each thread has its independent sequence of execution.
-
-What kinds of tasks do not require any kind of synchronization? Tasks that do not share resources or interact with each other in a way that could cause race conditions do not require synchronization. Examples include independent calculations, rendering operations on separate objects, and tasks that only read (but do not modify) shared data.
