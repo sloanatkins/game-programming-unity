@@ -1,0 +1,12 @@
+# macOS junk
+.DS_Store
+**/.DS_Store
+
+# Unity generated folders (extra safety)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
